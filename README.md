@@ -83,3 +83,6 @@ Codes:
 * Week3: 
   * [Neural Machine Translation with Attention](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Sequence%20Models/week3/Neural%20machine%20translation%20with%20attention)
   * [Trigger word detection](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Sequence%20Models/week3/Trigger%20word%20detection)
+
+## Certificate
+* [Verified Certificate](  https://www.coursera.org/account/accomplishments/specialization/certificate/VNWQYG8AMUWD)
